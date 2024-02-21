@@ -5,7 +5,7 @@
     <classes>
       <class name="com.TestCases.ElementsPage">
         <methods>
-          <include name="ElementsPage"/>
+          <include name="TextBoxField"/>
           <include name="browserTearDown"/>
           <include name="browserLaunch"/>
         </methods>
